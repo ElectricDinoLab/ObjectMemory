@@ -1,0 +1,996 @@
+﻿concept,category,domain_l,visual_HR,lexical_HR,lexical_FAR,visual_FAR
+accent lamp,furniture,nonliving,0.222222,0.522727,0.48,0.055555556
+accordion,musical instruments,nonliving,0.535714,0.592593,0.444444444,0.418604651
+acoustic guitar,musical instruments,nonliving,0.571429,0.555556,0.714285714,0.37037037
+agave plant,plant,living,0.74,0.571429,0.321428571,0.344827586
+air conditioner,street items,nonliving,0.491228,0.32,0.380952381,0.222222222
+alarm clock,household items,nonliving,0.408163,NA,NA,0.142857143
+almond,food,nonliving,0.732143,0.6,0.404761905,0.386363636
+ambulance,vehicle,nonliving,0.655172,0.571429,0.25,0.22
+amplifier,electronics,nonliving,0.166667,0.314285714,0.466666667,0.26
+anchor,tool,nonliving,0.607143,0.407407,0.444444444,0.222222222
+ankle,body parts,living,0.888889,0.586207,0.303030303,0.12244898
+ant,insect,living,0.772727,0.674419,0.307692308,0.20754717
+antelope,mammal,living,0.714286,0.678571,0.407407407,0.413793103
+apple,fruit,living,0.767442,0.697674,0.444444444,0.428571429
+aqueduct,building,nonliving,0.54,0.269231,0.25,0.185185185
+arch,building,nonliving,0.6,0.355556,0.423076923,0.392857143
+armchair,furniture,nonliving,0.285714,0.37037,0.538461538,0.224489796
+armoire,furniture,nonliving,0.517241,0.518519,0.321428571,0.541666667
+armor,clothing,nonliving,0.696429,0.592593,0.348837209,0.133333333
+armored personnel vehicle,vehicle,nonliving,0.473684,0.296296,0.279069767,0.155555556
+arrow,military,nonliving,0.571429,0.481481,0.422222222,0.333333333
+artichoke,vegetable,living,0.955556,0.545455,0.518518519,0.454545455
+ashtray,furniture,nonliving,0.76,0.366667,NA,0.138888889
+asparagus,vegetable,living,0.694444,NA,0.724137931,0.183673469
+ATM,street items,nonliving,0.577778,0.511111,0.518518519,0.196428571
+ATV,vehicle,nonliving,0.574074,0.384615,0.409090909,0.355555556
+avocado,vegetable,living,0.844444,0.75,0.692307692,0.418181818
+axe,tool,nonliving,0.52,0.535714,0.423076923,0.321428571
+baboon,mammal,living,0.714286,0.62963,0.285714286,0.448275862
+baby bottle,baby,nonliving,0.489796,0.571429,0.464285714,0.206896552
+baby carriage,baby,nonliving,0.466667,0.622222,0.461538462,0.214285714
+baby monitor,electronics,nonliving,0.545455,0.568182,0.37037037,0.232142857
+baby shoes,baby,nonliving,0.522727,0.395349,0.269230769,0.090909091
+backpack,clothing,nonliving,0.408163,0.586207,NA,0.285714286
+badminton racquet,sports,nonliving,0.530612,NA,NA,0.363636364
+baking pan,kitchen items,nonliving,0.4,0.533333,0.457142857,0.3
+ballet slipper,clothing,nonliving,0.38,0.678571,0.428571429,0.137931034
+balloon,toys,nonliving,0.446429,0.518519,0.431818182,0.133333333
+banana,fruit,living,0.62069,0.730769,0.555555556,0.551020408
+banjo,musical instruments,nonliving,0.241379,0.37037,0.333333333,0.22
+bar,furniture,nonliving,0.277778,0.535714,0.428571429,0.18
+bar of soap,household items,nonliving,0.55102,0.642857,0.428571429,0.103448276
+barn,building,nonliving,0.5,0.586207,0.514285714,0.38
+barnacles,sea,living,0.840909,0.44186,0.407407407,0.218181818
+barometer,tool,nonliving,0.589286,0.37037,0.409090909,0.133333333
+barrel,furniture,nonliving,0.688889,0.581395,0.481481481,0.263157895
+baseball,sports,nonliving,0.6,0.62963,0.333333333,0.321428571
+baseball bat,sports,nonliving,0.607143,0.538462,0.595238095,0.355555556
+basketball,sports,nonliving,0.527273,0.384615,0.318181818,0.511111111
+bass,sea,living,0.75,0.52,0.454545455,0.139534884
+basset hound,mammal,living,0.833333,NA,0.709677419,0.24
+bassoon,musical instruments,nonliving,0.642857,0.357143,0.461538462,0.4
+bathtub,furniture,nonliving,0.527778,NA,0.620689655,0.38
+battery,electronics,nonliving,0.38,0.5,0.555555556,0.115384615
+beach chair,furniture,nonliving,0.4,0.448276,NA,0.055555556
+beagle,mammal,living,0.888889,0.8,0.457142857,0.62
+beanbag,furniture,nonliving,0.638889,NA,0.3,0.224489796
+beanie,clothing,nonliving,0.407407,0.269231,0.311111111,0.204545455
+bear,mammal,living,0.8,0.755556,0.576923077,0.527272727
+bed,furniture,nonliving,0.138889,NA,0.387096774,0.14
+bee,insect,living,0.586207,0.714286,0.851851852,0.36
+beer bottle,kitchen items,nonliving,0.342857,0.566667,0.411764706,0.18
+beetle,insect,living,0.745455,0.692308,0.837209302,0.355555556
+bell,musical instruments,nonliving,0.644444,0.6,0.555555556,0.614035088
+bell pepper,vegetable,living,0.827586,0.714286,0.423076923,0.44
+belt,clothing,nonliving,0.653061,0.413793,NA,0.222222222
+bench,street items,nonliving,0.714286,0.75,0.428571429,0.482758621
+beret,clothing,nonliving,0.592593,0.48,0.395348837,0.11627907
+bib,baby,nonliving,0.446429,0.481481,0.255813953,0.133333333
+bicycle,vehicle,nonliving,0.444444,NA,0.633333333,0.458333333
+bike helmet,clothing,nonliving,0.46,0.5,0.4,0.206896552
+bike rack,street items,nonliving,0.413793,0.285714,0.269230769,0.2
+binder,office tool,nonliving,0.321429,0.153846,0.295454545,0.177777778
+binoculars,tool,nonliving,0.448276,0.62963,0.555555556,0.48
+biplane,vehicle,nonliving,0.46,0.259259,0.285714286,0.344827586
+birdcage,furniture,nonliving,0.535714,0.615385,0.488888889,0.159090909
+birdhouse,furniture,nonliving,0.428571,0.571429,0.357142857,0.28
+black-eyed peas,vegetable,living,0.428571,0.3,NA,0.257142857
+blackberry,fruit,living,0.514286,0.607143,0.303030303,0.183673469
+bleachers,street items,nonliving,0.690909,0.461538,0.372093023,0.355555556
+blender,appliances,nonliving,0.413793,0.555556,0.423076923,0.3
+bloodhound,mammal,living,0.75,0.592593,0.444444444,0.448275862
+bloody mary,food,nonliving,0.795918,0.481481,0.357142857,0.172413793
+blouse,clothing,nonliving,0.533333,0.348837,0.307692308,0.142857143
+blueberry,fruit,living,0.9,0.777778,0.357142857,0.428571429
+bluebird,birds,living,0.74,0.428571,NA,0.5
+boar,mammal,living,0.68,0.5,0.444444444,0.379310345
+bobber,tool,nonliving,0.464286,0.444444,0.296296296,0.18
+bongo drum,musical instruments,nonliving,0.416667,0.677419,0.484848485,0.3
+bonsai,plant,living,0.657143,NA,0.518518519,0.12244898
+book,office tool,nonliving,0.433962,0.518519,0.581395349,0.222222222
+bookcase,furniture,nonliving,0.636364,0.615385,0.372093023,0.386363636
+boombox,electronics,nonliving,0.555556,0.4,0.545454545,0.545454545
+boomerang,sports,nonliving,0.727273,0.555556,0.28,0.203703704
+booster seat,furniture,nonliving,0.622222,0.4,0.37037037,0.054545455
+boot,clothing,nonliving,0.47619,0.545455,0.538461538,0.214285714
+booties,baby,nonliving,0.38,0.333333,NA,0.166666667
+bottle,kitchen items,nonliving,0.363636,0.555556,0.644444444,0.2
+bow tie,clothing,nonliving,0.448276,0.428571,0.555555556,0.2
+bowl,kitchen items,nonliving,0.571429,0.647059,0.551724138,0.142857143
+bowler hat,clothing,nonliving,0.678571,0.444444,0.431818182,0.244444444
+bowling ball,sports,nonliving,0.555556,0.655172,0.542857143,0.224489796
+bowling pins,sports,nonliving,0.290909,0.62963,0.355555556,0.090909091
+bowtie pasta,food,nonliving,0.844444,0.704545,0.269230769,0.12962963
+boxer,mammal,living,0.777778,0.465116,0.230769231,0.4
+boxing gloves,sports,nonliving,0.795918,0.735294,0.482758621,0.285714286
+bracelet,clothing,nonliving,0.518519,0.538462,0.357142857,0.162790698
+branch,plant,living,0.653061,0.735294,0.428571429,0.138888889
+brandy,food,nonliving,0.533333,0.27907,0.444444444,0.290909091
+breadbox,kitchen items,nonliving,0.422222,0.372093,0.230769231,0.071428571
+bridge,building,nonliving,0.638298,0.642857,0.428571429,0.185185185
+briefcase,tool,nonliving,0.32,0.423077,0.444444444,0.296296296
+broccoli,vegetable,living,0.862069,0.821429,0.464285714,0.408163265
+broom,tool,nonliving,0.305556,0.7,0.514285714,0.2
+bucket,tool,nonliving,0.77551,0.586207,NA,0.257142857
+buffalo,mammal,living,0.854545,0.777778,0.466666667,0.590909091
+bugle,musical instruments,nonliving,0.37931,0.571429,0.428571429,0.26
+building,building,nonliving,0.388889,0.692308,0.634146341,0.2
+bull,mammal,living,0.74,0.444444,0.428571429,0.392857143
+bulldog,mammal,living,0.773585,0.592593,0.636363636,0.644444444
+bulldozer,vehicle,nonliving,0.413793,0.555556,0.5,0.326530612
+bullet,military,nonliving,0.54,0.807692,0.37037037,0.357142857
+bunkbed,furniture,nonliving,0.696429,0.444444,0.372093023,0.355555556
+bush,street items,living,0.545455,0.37037,0.558139535,0.177777778
+butter,food,nonliving,0.681818,0.44186,0.423076923,0.157894737
+butterfly,insect,living,0.666667,0.581395,0.576923077,0.236363636
+butterfly net,tool,nonliving,0.469388,NA,0.192307692,0.111111111
+cabasa,musical instruments,nonliving,0.689655,0.714286,0.642857143,0.08
+cabbage,vegetable,living,0.886364,0.704545,0.62962963,0.339285714
+cabin,building,nonliving,0.489796,0.558824,0.533333333,0.305555556
+cabinet,furniture,nonliving,0.25,0.666667,0.485714286,0.16
+cactus,plant,living,0.76,0.740741,0.52,0.285714286
+cake,food,nonliving,0.66,0.607143,0.407407407,0.724137931
+calculator,electronics,nonliving,0.28,0.6,0.677419355,0.314285714
+camcorder,electronics,nonliving,0.265306,0.407407,0.535714286,0.275862069
+camel,mammal,living,0.8,0.681818,0.730769231,0.418181818
+camera,electronics,nonliving,0.490909,0.615385,0.452380952,0.2
+camera lens,electronics,nonliving,0.571429,NA,0.451612903,0.34
+canary,birds,living,0.644444,0.488372,0.592592593,0.236363636
+candle,household items,nonliving,0.688889,0.568182,0.407407407,0.127272727
+candy,holiday,nonliving,0.577778,0.533333,0.592592593,0.181818182
+candy bar,food,nonliving,0.688889,0.5,0.4,0.092592593
+candycane,food,nonliving,0.472222,NA,0.766666667,0.285714286
+cane,tool,nonliving,0.583333,0.777778,0.269230769,0.413793103
+cannon,military,nonliving,0.58,0.5,0.392857143,0.275862069
+canoe,vehicle,nonliving,0.367347,0.821429,0.5,0.275862069
+cantaloupe,fruit,living,0.822222,0.568182,0.740740741,0.381818182
+canteen,tool,nonliving,0.482143,0.37037,0.404761905,0.136363636
+cap,clothing,nonliving,0.408163,0.678571,0.37037037,0.103448276
+car,vehicle,nonliving,0.34,0.607143,0.64,0.24137931
+carabiner,tool,nonliving,0.636364,0.296296,0.340909091,0.244444444
+card table,furniture,nonliving,0.448276,0.285714,0.461538462,0.367346939
+cardinal,birds,living,0.689655,0.607143,0.592592593,0.428571429
+cargo ship,vehicle,nonliving,0.542857,0.612903,0.352941176,0.26
+carrot,vegetable,living,0.836735,0.848485,0.5,0.583333333
+carseat,baby,nonliving,0.25,0.571429,0.333333333,0.194444444
+cash register,office tool,nonliving,0.62,0.451613,NA,0.277777778
+cassette tape,office tool,nonliving,0.277778,NA,0.607142857,0.3125
+castle,building,nonliving,0.357143,0.444444,0.428571429,0.183673469
+cat,mammal,living,0.586207,0.571429,0.571428571,0.24
+caterpillar,insect,living,0.740741,0.714286,0.571428571,0.22
+cauliflower,vegetable,living,0.727273,0.592593,0.595238095,0.279069767
+CD,electronics,nonliving,0.36,0.444444,0.392857143,0.137931034
+cedar,plant,living,0.86,0.387097,NA,0.6
+celery,vegetable,living,0.8,0.590909,0.333333333,0.428571429
+cello,musical instruments,nonliving,0.66,0.457143,0.464285714,0.657142857
+cellphone,electronics,nonliving,0.613636,0.604651,0.384615385,0.166666667
+centipede,insect,living,0.510204,0.666667,NA,0.638888889
+chain,vehicle,nonliving,0.457143,NA,0.586206897,0.34
+chainsaw,appliances,nonliving,0.527273,0.48,0.4,0.181818182
+chair,furniture,nonliving,0.509091,0.576923,0.590909091,0.622222222
+chalice,decorative,nonliving,0.92,0.5,NA,0.228571429
+chalkboard,furniture,nonliving,0.408163,0.575758,0.3,0.352941176
+chandelier,house parts,nonliving,0.458333,0.571429,0.448275862,0.171428571
+charm,clothing,nonliving,0.42,0.346154,0.285714286,0.275862069
+cheese,food,nonliving,0.758621,0.714286,0.37037037,0.14
+cheese puff,food,nonliving,0.642857,0.538462,NA,NA
+cheeseburger,food,nonliving,0.655172,0.75,0.392857143,0.3
+cheetah,mammal,living,0.676471,NA,0.677419355,0.244897959
+cherry,fruit,living,0.805556,NA,0.741935484,0.346938776
+chess bishop,toys,nonliving,0.642857,0.481481,0.355555556,0.355555556
+chess table,furniture,nonliving,0.55102,0.551724,NA,0.166666667
+chessboard,sports,nonliving,0.448276,0.535714,0.481481481,0.26
+chest,furniture,nonliving,0.48,0.481481,0.444444444,0.259259259
+chick,birds,living,0.827586,0.777778,0.5,0.32
+chicken,birds,living,0.690909,0.807692,0.477272727,0.288888889
+chickpea,vegetable,living,0.628571,0.4,0.382352941,0.367346939
+chili,vegetable,living,0.877551,0.387097,NA,0.314285714
+chinchilla,mammal,living,0.8,0.465116,0.208333333,0.410714286
+chipmunk,mammal,living,0.736842,0.615385,0.372093023,0.644444444
+chisel,tool,nonliving,0.462963,0.37037,0.272727273,0.272727273
+chocolate bar,food,nonliving,0.7,0.740741,NA,NA
+Christmas lightbulb,holiday,nonliving,0.551724,0.464286,0.392857143,0.1
+Christmas lights,holiday,nonliving,0.622222,0.444444,NA,NA
+Christmas stocking,holiday,nonliving,0.296296,0.518519,0.321428571,0.18
+Christmas tree,holiday,nonliving,0.472222,0.62069,NA,0.32
+church,building,nonliving,0.555556,0.666667,0.625,0.204081633
+cigar,household items,nonliving,0.625,0.346154,0.355555556,0.177777778
+cigar box,decorative,nonliving,0.64,0.296296,0.259259259,0.24137931
+cigarette,household items,nonliving,0.75,0.36,0.30952381,0.088888889
+cinnamon bun,food,nonliving,0.611111,NA,0.551724138,0.244897959
+circuit board,electronics,nonliving,0.611111,NA,0.533333333,0.48
+clam,sea,living,0.638889,NA,0.678571429,0.26
+clamp,tool,nonliving,0.5,0.676471,0.35483871,0.285714286
+clarinet,musical instruments,nonliving,0.734694,0.642857,0.428571429,0.678571429
+clock,household items,nonliving,0.444444,NA,0.75862069,0.18
+clog,clothing,nonliving,0.755556,0.477273,0.32,0.25
+clown,toys,nonliving,0.909091,0.545455,0.269230769,0.214285714
+cocker spaniel,mammal,living,0.824561,0.666667,0.409090909,0.159090909
+cockroach,insect,living,0.694444,NA,0.678571429,0.22
+coconut,fruit,nonliving,0.857143,0.769231,0.409090909,0.4
+coffee mug,kitchen items,nonliving,0.318182,0.555556,0.6,0.125
+coffee table,furniture,nonliving,0.333333,0.666667,0.576923077,0.272727273
+coffeemaker,appliances,nonliving,0.551724,0.464286,0.518518519,0.26
+coffeepot,kitchen items,nonliving,0.457143,NA,0.666666667,0.2
+coffin,furniture,nonliving,0.6,0.62963,0.321428571,0.206896552
+coin,household items,nonliving,0.571429,0.666667,0.511111111,0.044444444
+collie,mammal,living,0.74,0.407407,0.62962963,0.827586207
+column,house parts,nonliving,0.392857,0.407407,0.481481481,0.306122449
+combat boot,clothing,nonliving,0.733333,0.395349,0.461538462,0.509433962
+compact car,vehicle,nonliving,0.206897,0.5,0.428571429,0.16
+compass,tool,nonliving,0.275862,0.571429,0.75,0.24
+computer,electronics,nonliving,,,NA,NA
+computer keyboard,electronics,nonliving,0.457143,0.677419,0.545454545,0.32
+computer monitor,electronics,nonliving,0.448276,0.571429,0.428571429,0.24
+computer mouse,electronics,nonliving,0.578947,0.576923,0.522727273,0.155555556
+conch,sea,living,0.821429,0.518519,0.444444444,0.333333333
+congo drum,musical instruments,nonliving,0.52,0.575758,0.5,0.5
+construction helmet,clothing,nonliving,0.4,NA,NA,0.272727273
+convertible,vehicle,nonliving,0.37931,0.444444,0.428571429,0.183673469
+cookie,food,nonliving,0.666667,0.666667,0.558823529,0.26
+cookie tin,kitchen items,nonliving,0.269231,0.357143,0.321428571,0.103448276
+cooking pot,kitchen items,nonliving,0.32,0.6,NA,0.228571429
+cooler,kitchen items,nonliving,0.2,0.418605,0.5,0.089285714
+coral,sea,living,0.68,0.6,0.433333333,0.171428571
+corkscrew,kitchen items,nonliving,0.563636,0.269231,0.511627907,0.355555556
+couch,furniture,nonliving,0.595745,0.571429,0.535714286,0.068965517
+cougar,mammal,living,0.896552,0.714286,0.892857143,0.54
+covered wagon,vehicle,nonliving,0.37931,0.5,0.392857143,0.333333333
+cow,mammal,living,0.6,0.628571,0.533333333,0.472222222
+cowbell,musical instruments,nonliving,0.644444,0.619048,0.307692308,0.145454545
+cowboy boot,clothing,nonliving,0.62,0.514286,0.483870968,0.5
+cowboy hat,clothing,nonliving,0.377778,0.466667,0.538461538,0.178571429
+crab,sea,living,0.638889,0.827586,0.617647059,0.42
+cranberry,fruit,living,0.84,0.451613,NA,0.388888889
+crate,household items,nonliving,0.444444,0.37931,0.411764706,0.244897959
+crayfish,sea,living,0.82,0.588235,0.6,0.472222222
+crayon,toys,nonliving,0.48,0.647059,0.466666667,0.142857143
+crib,furniture,nonliving,0.3,0.653846,0.518518519,0.24137931
+cricket,insect,living,0.727273,0.568182,0.592592593,0.490909091
+croissant,food,nonliving,0.74,0.62963,0.307692308,0.172413793
+cross,decorative,nonliving,0.790698,0.5,0.37037037,0.236363636
+crossbow,sports,nonliving,0.46,0.714286,0.428571429,0.222222222
+crow,birds,living,0.857143,0.386364,0.56,0.446428571
+crowbar,tool,nonliving,0.591837,0.533333,NA,0.444444444
+cucumber,vegetable,living,0.857143,0.5,NA,0.416666667
+cupboard,furniture,nonliving,0.535714,0.37037,0.363636364,0.266666667
+curling iron,tool,nonliving,0.877551,0.428571,NA,0.222222222
+dagger,military,nonliving,0.409091,0.5,0.5,0.283018868
+dalmatian,mammal,living,0.611111,0.6,0.4,0.204081633
+dart,sports,nonliving,0.586207,0.52,0.321428571,0.18
+date,fruit,living,0.78,0.555556,0.357142857,0.357142857
+deer,mammal,living,0.72,0.678571,0.615384615,0.655172414
+desk lamp,furniture,nonliving,0.37931,0.678571,0.571428571,0.22
+diaper,baby,nonliving,0.607143,0.555556,0.259259259,0.081632653
+diaperbag,baby,nonliving,0.264706,0.37931,NA,0.06
+dice,sports,nonliving,0.56,0.692308,0.464285714,0.172413793
+dining chair,furniture,nonliving,0.297872,0.5,0.451612903,0.25
+dining table,furniture,nonliving,0.5,0.6,0.6,0.416666667
+dinner knife,kitchen items,nonliving,0.285714,0.296296,0.428571429,0.344827586
+dinosaur,toys,nonliving,0.758621,0.892857,0.571428571,0.34
+dinosaur toy,toys,nonliving,0.714286,0.814815,0.555555556,0.3125
+diploma,office tool,nonliving,0.423077,0.416667,0.28,0.22
+dishwasher,appliances,nonliving,0.458333,0.535714,0.321428571,0.111111111
+disk,electronics,nonliving,0.68,0.592593,0.37037037,0.103448276
+doberman,mammal,living,0.777778,NA,0.566666667,0.428571429
+dodo,birds,living,0.77551,0.642857,0.291666667,0.259259259
+dog bowl,furniture,nonliving,0.5,0.5,0.142857143,0.14
+doghouse,street items,nonliving,0.84,0.483871,NA,0.277777778
+doll,toys,nonliving,0.888889,0.777778,0.615384615,0.267857143
+dollhouse,toys,nonliving,0.285714,0.448276,0.457142857,0.224489796
+dolphin,sea,living,0.795918,0.846154,0.740740741,0.5
+dome,building,nonliving,0.428571,0.264706,0.4,0.428571429
+donkey,mammal,living,0.642857,0.62963,0.703703704,0.32
+donut,food,nonliving,0.510204,0.678571,NA,0.305555556
+door,house parts,living,0.257143,0.633333,0.628571429,0.26
+doorknob,house parts,nonliving,0.388889,NA,0.518518519,0.714285714
+doubledecker bus,vehicle,nonliving,0.714286,NA,0.580645161,0.106382979
+dragon statue,decorative,nonliving,0.551724,0.740741,0.25,0.16
+dragonfly,insect,living,0.75,0.62963,0.535714286,0.24
+dress,clothing,nonliving,0.387755,0.75,0.518518519,0.137931034
+dress shoe,clothing,nonliving,0.535714,0.56,0.692307692,0.16
+dresser,furniture,nonliving,0.655172,0.642857,0.555555556,0.62
+drill,tool,nonliving,0.363636,0.651163,0.5,0.142857143
+driver,sports,nonliving,0.346939,0.37037,0.142857143,0.24137931
+drum,musical instruments,nonliving,0.56,0.685714,0.793103448,0.4
+drum set,musical instruments,nonliving,0.583333,0.666667,NA,0.085106383
+dryer,appliances,nonliving,0.58,0.535714,0.538461538,0.481481481
+duck,birds,living,0.5,0.533333,NA,0.527777778
+dumbbell,sports,nonliving,0.510204,0.428571,0.321428571,0.379310345
+dumpster,street items,nonliving,0.4,0.485714,0.413793103,0.142857143
+dustpan,household items,nonliving,0.510204,0.457143,0.366666667,0.277777778
+eagle,birds,living,0.78,0.764706,0.655172414,0.657142857
+ear,body parts,living,0.78,0.857143,0.344827586,0.171428571
+earring,clothing,nonliving,0.535714,0.407407,0.423076923,0.22
+earthworm,insect,living,0.655172,0.821429,0.321428571,0.18
+easel,tool,nonliving,0.444444,0.586207,0.285714286,0.32
+easter egg,holiday,nonliving,0.62,0.482759,NA,0.111111111
+egg,birds,living,0.644444,0.681818,0.28,0.166666667
+eggplant,vegetable,living,0.777778,0.72,0.6,0.644444444
+electric drumset,musical instruments,nonliving,0.333333,NA,0.392857143,0.24
+electric guitar,musical instruments,nonliving,0.510204,0.571429,0.615384615,0.413793103
+electric razor,electronics,nonliving,0.45614,0.461538,0.302325581,0.2
+electric saw,tool,nonliving,0.285714,0.535714,0.259259259,0.2
+elephant,mammal,living,0.727273,0.777778,0.418604651,0.488888889
+elliptical,sports,nonliving,0.428571,NA,0.387096774,0.125
+emu,birds,living,0.689655,0.5,0.37037037,0.56
+end table,furniture,nonliving,0.428571,0.6,0.481481481,0.222222222
+envelopes,office tool,nonliving,0.4,NA,0.642857143,0.693877551
+escalator,house parts,nonliving,0.428571,0.5,0.192307692,0.148148148
+eye,body parts,living,NA,0.4,NA,0.194444444
+eyeglasses,clothing,nonliving,0.489796,0.517241,NA,0.147058824
+factory,building,nonliving,0.408163,0.428571,0.222222222,0.285714286
+fairy statue,decorative,nonliving,0.785714,0.48,0.204545455,0.155555556
+false teeth,body parts,living,0.862069,0.777778,0.214285714,0.14
+fan,appliances,nonliving,0.555556,0.636364,0.538461538,0.290909091
+fanny-pack,clothing,nonliving,0.222222,NA,0.35483871,0.16
+faucet,house parts,nonliving,0.6,0.571429,0.269230769,0.310344828
+feather,birds,living,0.611111,NA,0.714285714,0.428571429
+female suit,clothing,nonliving,0.36,0.37037,0.222222222,0.107142857
+ferris wheel,building,nonliving,0.482759,0.464286,0.392857143,0.163265306
+fez,clothing,nonliving,0.5,0.355556,0.4,0.218181818
+file,tool,nonliving,0.6,NA,0.379310345,0.208333333
+file cabinet,furniture,nonliving,0.5,0.407407,0.5,0.32
+filmreel,tool,nonliving,0.465116,0.380952,NA,NA
+finger,body parts,living,0.840909,0.790698,0.666666667,0.071428571
+fire hat,clothing,nonliving,0.490909,0.518519,0.279069767,0.222222222
+fire hydrant,street items,nonliving,0.42,0.666667,0.44,0.275862069
+fire station,building,nonliving,0.485714,NA,0.517241379,0.244897959
+fireplace,house parts,nonliving,0.52,0.642857,0.222222222,0.172413793
+firetruck,vehicle,nonliving,0.88,0.5,NA,0.388888889
+firewood,household items,nonliving,0.489796,0.451613,NA,0.147058824
+fish,sea,living,0.734694,0.857143,0.821428571,0.259259259
+fish hook,tool,nonliving,0.777778,0.55814,0.6,0.245614035
+fishbowl,furniture,nonliving,0.58,0.428571,NA,0.138888889
+fishing lure,tool,nonliving,0.844444,0.704545,0.423076923,0.192982456
+fishtank,furniture,nonliving,0.82,0.962963,NA,NA
+flag,street items,nonliving,0.38,0.628571,0.448275862,0.055555556
+flamingo,birds,living,0.857143,0.866667,0.441176471,0.469387755
+flashlight,tool,nonliving,0.529412,0.518519,0.488888889,0.318181818
+flask,kitchen items,nonliving,0.6,0.703704,0.392857143,0.482758621
+flour,food,nonliving,0.596491,0.32,0.2,0.177777778
+flower,plant,living,0.696429,0.769231,0.681818182,0.2
+flower pot,household items,nonliving,0.577778,0.622222,0.666666667,0.245283019
+flute,musical instruments,nonliving,0.5,0.666667,0.514285714,0.163265306
+flying insect,insect,living,0.8,0.735294,0.730769231,0.228571429
+fondue fork,kitchen items,nonliving,0.581395,0.272727,0.333333333,0.25
+food processor,kitchen items,nonliving,0.470588,0.517241,0.382352941,0.16
+football,sports,nonliving,0.472222,NA,0.6,0.14893617
+fork,kitchen items,nonliving,0.37931,0.607143,0.428571429,0.36
+fossil,sea,living,0.583333,0.7,0.457142857,0.16
+fountain,street items,nonliving,0.618182,0.807692,0.422222222,0.288888889
+fox,mammal,living,0.66,0.714286,0.586206897,0.527777778
+frame,household items,nonliving,0.464286,0.407407,0.481481481,0.265306122
+french fries,food,nonliving,0.638889,0.666667,0.457142857,0.163265306
+french press,kitchen items,nonliving,0.68,0.233333,NA,0.222222222
+fried egg,food,nonliving,0.722222,0.7,0.314285714,0.224489796
+frying pan,kitchen items,nonliving,0.574074,0.481481,0.534883721,0.181818182
+funnel,tool,nonliving,0.25,0.37037,0.392857143,0.1875
+galleon,vehicle,nonliving,0.571429,0.428571,0.178571429,0.392857143
+gamepad,electronics,nonliving,0.470588,0.645161,NA,0.104166667
+garlic,vegetable,living,0.724138,0.592593,0.37037037,0.204081633
+gas can,tool,nonliving,0.711111,0.581395,0.37037037,0.482142857
+gas mask,military,nonliving,0.551724,0.714286,0.321428571,0.265306122
+gas station,building,nonliving,0.527778,NA,0.466666667,0.44
+gavel,tool,nonliving,0.361111,0.5,0.441176471,0.26
+gear,tool,nonliving,0.631579,0.407407,0.390243902,0.266666667
+geode,decorative,nonliving,0.814815,0.5,0.177777778,0.133333333
+german shepard,mammal,living,0.711111,0.711111,NA,NA
+ghost,holiday,nonliving,0.714286,0.4,0.275862069,0.176470588
+gift,holiday,nonliving,0.5,0.785714,0.607142857,0.172413793
+gift bag,holiday,nonliving,0.36,0.571429,0.5,0.206896552
+gift bow,holiday,nonliving,0.58,0.444444,0.192307692,0.178571429
+ginger,vegetable,living,0.857143,0.538462,0.295454545,0.355555556
+ginkgo leaf,plant,living,0.7,0.428571,0.185185185,0.142857143
+giraffe,mammal,nonliving,0.88,0.777778,0.576923077,0.857142857
+giraffe toy,toys,nonliving,0.535714,0.821429,0.518518519,0.16
+glass,kitchen items,nonliving,0.2,0.545455,0.384615385,0.160714286
+globe,decorative,nonliving,0.622222,0.674419,0.461538462,0.345454545
+glove,clothing,nonliving,0.4375,NA,NA,0.181818182
+goat,mammal,living,0.75,0.711111,0.518518519,0.456140351
+goggles,clothing,nonliving,0.448276,0.535714,0.714285714,0.2
+golf bag,sports,nonliving,0.444444,0.428571,NA,NA
+golf ball,sports,nonliving,0.488889,0.571429,NA,NA
+golfcart,vehicle,nonliving,0.611111,NA,0.419354839,0.4
+golf club,sports,nonliving,0.781818,0.730769,0.395348837,0.422222222
+gong,musical instruments,nonliving,0.314286,NA,0.433333333,0.34
+goose,birds,living,0.688889,0.444444,0.423076923,0.517857143
+gorilla,mammal,living,0.886792,0.807692,0.4,0.581395349
+gourd instrument,musical instruments,nonliving,0.8,0.435897,NA,NA
+gramophone,musical instruments,nonliving,0.428571,0.233333,0.342857143,0.387755102
+grandfather clock,furniture,nonliving,0.444444,NA,0.62962963,0.14
+grape,fruit,living,0.714286,0.518519,0.45,0.355555556
+grapefruit,fruit,living,0.78,0.714286,0.384615385,0.357142857
+grater,kitchen items,nonliving,0.555556,0.595238,0.481481481,0.185185185
+great dane,mammal,living,0.755556,0.622222,0.36,0.303571429
+greenhouse,building,nonliving,0.886364,0.688889,0.481481481,0.196428571
+grenade,military,nonliving,0.685714,NA,0.533333333,0.74
+greyhound,mammal,living,0.551724,0.571429,0.642857143,0.28
+grill,furniture,nonliving,0.409091,0.466667,0.518518519,0.188679245
+ground beef,food,nonliving,0.821429,0.740741,0.185185185,0.12244898
+guardrail,street items,nonliving,0.428571,0.318182,0.295454545,0.244444444
+guinea pig,mammal,living,0.66,0.703704,0.407407407,0.333333333
+guitar case,musical instruments,nonliving,0.464286,0.642857,NA,NA
+guitar tuner,electronics,nonliving,0.489796,NA,NA,0.227272727
+gun,military,nonliving,0.592593,0.518519,0.465116279,0.244444444
+hacksaw,tool,nonliving,0.485714,0.428571,0.4,0.26
+hairbrush,household items,nonliving,0.488889,0.568182,0.423076923,0.196428571
+haircomb,clothing,nonliving,0.777778,0.395349,NA,NA
+hairdryer,tool,nonliving,0.517241,0.692308,0.571428571,0.285714286
+HAM radio,electronics,nonliving,0.535714,0.321429,0.214285714,0.24
+hammer,tool,nonliving,0.514286,NA,0.6,0.306122449
+hammock,furniture,nonliving,0.510204,0.642857,0.428571429,0.275862069
+hamster cage,household items,nonliving,0.58,NA,NA,0.1
+hamster wheel,household items,nonliving,0.48,0.466667,NA,0.277777778
+hand,body parts,living,0.839286,0.769231,0.682926829,0.488888889
+hand mirror,household items,nonliving,0.416667,0.571429,0.428571429,0.344827586
+hand saw,tool,nonliving,0.522727,0.522727,0.423076923,0.218181818
+handbag,clothing,nonliving,0.37931,0.576923,0.678571429,0.142857143
+handbell,musical instruments,nonliving,0.613636,0.590909,0.518518519,0.203703704
+handcuff,tool,nonliving,0.685714,NA,0.482758621,0.020408163
+handheld vacuum,appliances,nonliving,0.448276,0.703704,0.464285714,0.285714286
+hanger,household items,nonliving,0.428571,0.407407,0.464285714,0.22
+harmonica,musical instruments,nonliving,0.733333,0.431818,0.269230769,0.327272727
+harp,musical instruments,nonliving,0.6,0.5,0.461538462,0.218181818
+hawk,birds,living,0.727273,0.533333,0.62962963,0.339285714
+hay bale,tool,nonliving,0.818182,0.659091,0.444444444,0.185185185
+headband,clothing,nonliving,0.644444,0.363636,0.259259259,0.109090909
+headdress,clothing,nonliving,0.361111,0.4,0.363636364,0.041666667
+headphone,electronics,nonliving,0.535714,0.692308,0.481481481,0.183673469
+hearse,vehicle,nonliving,0.44,0.428571,0.321428571,0.103448276
+hedgehog,mammal,living,0.52,0.6,NA,0.666666667
+helicopter,vehicle,nonliving,0.596154,0.52,0.444444444,0.2
+helmet,clothing,nonliving,0.48,0.685714,0.64516129,0.111111111
+heron,birds,living,0.64,0.518519,0.535714286,0.535714286
+hippopotamus,mammal,living,0.708333,0.482759,NA,0.6
+hockey mask,sports,nonliving,0.7,0.344828,NA,0.111111111
+hockey stick,sports,nonliving,0.574074,0.538462,0.604651163,0.418604651
+hoe,tool,nonliving,0.367347,0.357143,0.32,0.285714286
+holly,plant,living,0.694444,0.516129,0.352941176,0.28
+hollywood star,decorative,nonliving,0.591837,0.233333,NA,0.083333333
+hookah,decorative,nonliving,0.714286,0.444444,0.325581395,0.244444444
+horse,mammal,living,0.666667,0.75,0.441176471,0.244897959
+horseshoe crab,sea,living,0.954545,0.651163,0.407407407,0.410714286
+hose,tool,nonliving,0.34,0.464286,0.333333333,0.172413793
+hot air balloon,vehicle,nonliving,0.62069,0.62963,0.321428571,0.32
+hotdog,food,nonliving,0.75,0.576923,0.295454545,0.244444444
+hourglass,tool,nonliving,0.642857,0.481481,0.392857143,0.346938776
+house,building,nonliving,0.44898,0.5,0.5,0.137931034
+hummingbird,birds,living,0.68,0.851852,0.666666667,0.620689655
+hunting bow,sports,nonliving,0.607143,0.535714,0.464285714,0.38
+hunting cap,clothing,nonliving,0.464286,0.48,0.355555556,NA
+husky,mammal,living,0.862069,0.814815,0.464285714,0.541666667
+hut,building,nonliving,0.52,0.266667,NA,0.294117647
+ice bucket,kitchen items,nonliving,0.2,NA,0.4,0.204081633
+ice skate,clothing,nonliving,0.392857,0.678571,NA,NA
+icecream scoop,kitchen items,nonliving,0.448276,0.571429,NA,0.28
+in basket,office tool,nonliving,0.533333,0.5,0.407407407,0.090909091
+inkwell,household items,nonliving,0.526316,0.444444,0.288888889,0.186046512
+iron,appliances,nonliving,0.482759,0.678571,0.407407407,0.4
+ironing board,household items,nonliving,0.5,0.392857,0.464285714,0.172413793
+jack-o-lantern,holiday,nonliving,0.652174,0.464286,0.4,0.172413793
+jacket,clothing,nonliving,0.206897,0.428571,0.555555556,0.14
+jam,food,nonliving,0.66,0.647059,0.379310345,0.117647059
+jeep,vehicle,nonliving,0.479167,0.428571,0.52,0.285714286
+jellybeans,food,nonliving,0.68,0.678571,0.222222222,0.24137931
+jet,vehicle,nonliving,0.422222,0.52381,0.423076923,0.109090909
+jet-ski,vehicle,nonliving,0.310345,0.333333,0.285714286,0.285714286
+jewlery box,decorative,nonliving,0.44186,0.466667,0.538461538,0.175438596
+joystick,electronics,nonliving,0.636364,0.636364,0.44,0.072727273
+jukebox,musical instruments,nonliving,0.54386,0.555556,0.372093023,0.4
+jumprope,sports,nonliving,0.607143,0.307692,0.244444444,NA
+kangaroo,mammal,living,0.793103,0.678571,0.703703704,0.571428571
+kayak,sports,nonliving,0.55102,0.821429,0.444444444,0.137931034
+keg,furniture,nonliving,0.5,0.6,0.551724138,0.333333333
+kettle,kitchen items,nonliving,0.413793,0.407407,0.538461538,0.142857143
+key,household items,nonliving,0.46,0.657143,0.533333333,0.314285714
+kingfisher,birds,living,0.724138,0.392857,0.464285714,0.333333333
+kitten,mammal,living,0.64,0.5,NA,0.485714286
+kiwi,fruit,living,0.796296,0.884615,0.477272727,0.244444444
+knife,tool,nonliving,0.555556,0.6,0.576923077,0.363636364
+kumquat,fruit,living,0.638889,NA,0.275862069,0.14
+laborador,mammal,living,0.571429,0.423077,NA,NA
+ladder,furniture,nonliving,0.454545,0.576923,0.386363636,0.465116279
+ladybug,insect,living,0.911111,0.809524,0.6,0.150943396
+lamb,mammal,living,0.66,0.757576,0.586206897,0.5
+lamborghini,vehicle,nonliving,0.32,0.428571,0.266666667,0.166666667
+lamppost,street items,nonliving,0.444444,0.533333,0.382352941,0.354166667
+lantern,tool,nonliving,0.555556,NA,0.620689655,0.28
+laptop,electronics,nonliving,0.586207,0.464286,0.392857143,0.24
+laundry hamper,furniture,nonliving,0.42,0.464286,0.481481481,0.620689655
+lawnmower,appliances,nonliving,0.5,0.6,0.705882353,0.38
+leash,tool,nonliving,0.346154,0.36,0.185185185,0.102040816
+leek,vegetable,living,0.86,0.333333,0.230769231,0.5
+leg,body parts,living,0.822222,0.697674,0.333333333,0.245614035
+lei,clothing,nonliving,0.827586,0.555556,0.178571429,0.224489796
+lemon,fruit,living,0.722222,0.666667,0.6,0.54
+leopard,mammal,living,0.6,NA,0.774193548,0.62
+lettuce,vegetable,living,0.583333,0.516129,0.371428571,0.395833333
+life jacket,clothing,nonliving,0.47619,0.452381,0.16,0.098039216
+lightbulb,household items,nonliving,0.472222,0.741935,0.657142857,0.408163265
+lighter,tool,nonliving,0.5,0.555556,0.363636364,0.272727273
+lighthouse,building,nonliving,0.55102,0.62963,0.423076923,0.137931034
+lime,fruit,living,0.571429,0.742857,0.666666667,0.388888889
+lion,mammal,living,0.742857,NA,0.655172414,0.12
+lip phone,decorative,nonliving,0.791667,0.588235,0.322580645,0.083333333
+lipstick,household items,nonliving,0.38,0.52,0.518518519,0.285714286
+lizard,reptile,living,0.8,0.75,0.615384615,0.357142857
+loafer,clothing,nonliving,0.511111,0.454545,0.384615385,0.214285714
+lobster,sea,living,0.75,0.884615,0.518518519,0.458333333
+lock,tool,nonliving,0.37931,0.692308,0.37037037,0.2
+lock cutters,tool,nonliving,0.62,0.310345,NA,0.285714286
+locker,furniture,nonliving,0.651163,0.697674,0.56,0.181818182
+log,decorative,living,0.628571,NA,0.461538462,0.58
+lollipop,food,nonliving,0.472222,0.709677,0.457142857,0.16
+loofah,tool,nonliving,0.4,0.346154,0.325581395,0.181818182
+loudspeaker,electronics,nonliving,0.48,0.555556,0.464285714,0.24137931
+loveseat,furniture,nonliving,0.259259,0.321429,0.285714286,0.28
+lychee,fruit,living,0.793103,0.321429,0.5,0.18
+magazine rack,furniture,nonliving,0.469388,0.307692,0.285714286,0.107142857
+magnet,tool,nonliving,0.46,0.607143,0.407407407,0.379310345
+magnifying glass,office tool,nonliving,0.466666667,NA,NA,0.089285714
+mailbox,street items,nonliving,0.333333,NA,0.482758621,0.12244898
+male suit,clothing,nonliving,0.333333,0.296296,0.25,0.133333333
+mallet,tool,nonliving,0.571429,0.37037,0.285714286,0.379310345
+manatee,mammal,living,0.52,0.451613,NA,0.142857143
+mandolin,musical instruments,nonliving,0.409091,0.363636,0.538461538,0.214285714
+mango,fruit,living,0.724138,0.555556,0.592592593,0.3
+maple leaf,plant,living,0.527777778,NA,0.352941176,0.24
+maraca,musical instruments,nonliving,0.28,0.4,NA,0.194444444
+margarita,food,nonliving,0.631579,0.5,0.266666667,0.255813953
+marshmallow,food,nonliving,0.76,0.666667,0.357142857,0.206896552
+martini,food,nonliving,0.55102,0.518519,0.259259259,0.222222222
+mask,clothing,nonliving,0.6,0.463415,0.307692308,0.070175439
+measuring tape,tool,nonliving,0.344828,0.5,0.555555556,0.285714286
+med kit,tool,nonliving,0.333333,0.517241,NA,0.12244898
+medal,decorative,nonliving,0.466667,0.511111,0.52,0.127272727
+melon,fruit,living,0.8,0.551724,NA,0.114285714
+menorah,holiday,nonliving,0.622222,0.5,0.333333333,0.358490566
+men's hat,clothing,nonliving,0.392857143,NA,0.464285714,0.291666667
+merry-go-round,building,nonliving,0.938776,0.357143,NA,0.2
+metal fence,street items,nonliving,0.44,0.205882,0.275862069,0.194444444
+metronome,musical instruments,nonliving,0.571429,0.178571,NA,0.285714286
+microphone,electronics,nonliving,0.52,0.6,NA,0.2
+microscope,tool,nonliving,0.333333,0.428571,0.485714286,0.24
+microwave,appliances,nonliving,0.466667,0.444444,0.444444444,0.109090909
+millipede,insect,living,0.722222,0.586207,0.685714286,0.306122449
+minivan,vehicle,nonliving,0.18,0.464286,0.192307692,0.137931034
+mirror,furniture,nonliving,0.4,0.538462,0.386363636,0.23255814
+mitten,clothing,nonliving,0.285714,0.4,0.257142857,0.1
+mixer,appliances,nonliving,0.6,0.518519,0.592592593,0.344827586
+mocassins,clothing,nonliving,0.277778,NA,0.4,0.285714286
+money,household items,nonliving,0.653061,0.592593,0.392857143,0.137931034
+monkey,mammal,living,0.745455,0.846154,0.454545455,0.209302326
+moose,mammal,living,0.666667,0.535714,0.678571429,0.54
+moped,vehicle,nonliving,0.357143,0.307692,0.325581395,0.155555556
+mosque,building,nonliving,0.482143,0.307692,0.227272727,0.355555556
+moth,insect,living,0.86,0.676471,0.366666667,0.527777778
+motorboat,vehicle,nonliving,0.469388,0.548387,NA,0.333333333
+motorcycle,vehicle,nonliving,0.163265,0.617647,0.535714286,0.114285714
+mouse,mammal,living,0.685714,0.62069,0.625,0.12
+muffin,food,nonliving,0.689655,0.678571,0.571428571,0.3125
+muffin tin,kitchen items,nonliving,0.48,0.4,NA,0.555555556
+mug,kitchen items,nonliving,0.350877,0.555556,0.755555556,0.155555556
+mushroom,vegetable,living,0.72,0.69697,0.366666667,0.194444444
+music stand,musical instruments,nonliving,0.425926,0.48,0.272727273,0.177777778
+musical keyboard,musical instruments,nonliving,0.563636,0.37037,0.441860465,0.311111111
+mussel,sea,living,0.933333,0.659091,0.56,0.350877193
+nacho,food,nonliving,0.844444,0.568182,0.346153846,0.333333333
+needle,household items,nonliving,0.5,NA,0.548387097,0.12
+nesting dolls,toys,nonliving,0.666667,NA,0.533333333,0.183673469
+nightgown,clothing,nonliving,0.257143,NA,0.357142857,0.2
+nightstand,furniture,nonliving,0.555556,0.333333,0.25,0.340909091
+nose,body parts,living,0.655172,0.75,0.518518519,0.183673469
+nun,toys,nonliving,0.772727,0.377778,0.153846154,0.107142857
+nut,tool,nonliving,0.46,0.514286,0.451612903,0.388888889
+nutcracker,holiday,nonliving,0.666667,0.655172,0.371428571,0.26
+ocelot,mammal,living,0.655172,0.461538,0.333333333,0.1
+octopus,sea,living,0.930233,0.733333,0.56,0.357142857
+office building,building,nonliving,0.551724,0.535714,0.464285714,0.26
+office chair,furniture,nonliving,0.645833,0.676471,0.516129032,0.333333333
+oil can,tool,nonliving,0.622222,0.577778,0.407407407,0.290909091
+okra,vegetable,living,0.793103,0.678571,0.461538462,0.204081633
+old camera,electronics,nonliving,0.310345,0.464286,0.37037037,0.08
+onion,vegetable,living,0.758621,0.714286,0.481481481,0.48
+orange,fruit,living,0.777778,NA,0.483870968,0.38
+orangutan,mammal,living,0.755102,0.285714,NA,0.264705882
+orchid,plant,living,0.719298,0.518519,0.5,0.444444444
+organ,musical instruments,nonliving,0.571429,0.586207,NA,0.25
+ornament,holiday,nonliving,0.48,0.735294,0.655172414,0.111111111
+ostrich,birds,living,0.842105,0.538462,0.386363636,0.688888889
+outdoor table,furniture,nonliving,0.285714,NA,0.482758621,0.18
+outlet,house parts,nonliving,0.62963,0.518519,0.363636364,0.357142857
+oven,appliances,nonliving,0.527778,NA,0.483870968,0.212765957
+owl,birds,living,0.816327,0.657143,0.482758621,0.571428571
+oyster,sea,living,0.758621,0.814815,0.5,0.2
+packing tape,office tool,nonliving,0.361111,0.586207,0.4,0.142857143
+pager,electronics,nonliving,0.333333,0.586207,0.303030303,0.14
+pagoda,building,nonliving,0.590909,0.418605,0.384615385,0.236363636
+pail,tool,nonliving,0.320755,0.37037,0.431818182,0.333333333
+paint,tool,nonliving,0.363636,0.535714,0.392857143,0.137931034
+paint can,tool,nonliving,0.416667,0.666667,0.357142857,0.172413793
+paint roller,tool,nonliving,0.485714,NA,0.551724138,0.32
+paintbrush,tool,nonliving,0.311111,0.44186,0.518518519,0.245614035
+palm tree,plant,living,0.613636,0.444444,0.444444444,0.089285714
+panda,mammal,living,0.708333,0.742857,0.333333333,0.444444444
+pants,clothing,nonliving,0.469388,0.4,0.387096774,0.25
+papaya,fruit,living,0.758621,0.62963,0.607142857,0.28
+parking meter,street items,nonliving,0.482759,0.571429,0.428571429,0.32
+parrot,birds,living,0.771429,NA,0.766666667,0.081632653
+passenger plane,vehicle,nonliving,0.54,0.6,NA,0.555555556
+pasta,food,nonliving,0.714286,0.607143,0.321428571,0.22
+payphone,tool,nonliving,0.37931,0.333333,0.464285714,0.204081633
+pea,vegetable,living,0.771429,NA,0.586206897,0.270833333
+peach,fruit,living,0.636364,0.740741,0.418604651,0.311111111
+peacock,birds,living,0.84,0.555556,0.377777778,0.545454545
+peanut,food,living,0.795918,0.821429,0.230769231,0.344827586
+pear,fruit,living,0.727273,0.730769,0.5,0.636363636
+pearl necklace,clothing,nonliving,0.36,0.485714,0.366666667,0.194444444
+pelican,birds,living,0.666667,0.766667,0.470588235,0.469387755
+pen,office tool,nonliving,0.2,0.785714,0.607142857,0.148148148
+pencil,household items,nonliving,0.777778,0.666667,0.5,0.071428571
+penguin,birds,living,0.821429,0.592593,0.511627907,0.577777778
+pepper shaker,kitchen items,nonliving,0.481481,0.37037,0.571428571,0.42
+percussion instrument,musical instruments,nonliving,0.527273,0.576923,0.488372093,0.139534884
+perfume,household items,nonliving,0.428571,0.535714,0.642857143,0.12
+periscope,tool,nonliving,0.34,0.392857,0.214285714,0.275862069
+personal fan,tool,nonliving,0.25,0.344828,0.382352941,0.142857143
+pheasant,birds,living,0.5,0.290323,NA,0.416666667
+piano,musical instruments,nonliving,0.45614,0.555556,0.452380952,0.333333333
+pick,tool,nonliving,0.586207,0.222222,0.16,0.285714286
+pickle,vegetable,living,0.897959,0.705882,0.419354839,0.444444444
+pickup truck,vehicle,nonliving,0.355556,0.348837,0.481481481,0.090909091
+picnic table,street items,nonliving,0.574074,0.36,0.431818182,0.644444444
+pie,food,nonliving,0.714286,0.566667,NA,0.142857143
+pig,mammal,living,0.666667,0.533333,0.454545455,0.22
+piggybank,decorative,nonliving,0.166667,0.75,0.518518519,0.36
+pillow,decorative,nonliving,0.26,0.592593,0.407407407,0.137931034
+pinata,decorative,nonliving,0.6,NA,0.793103448,0.32
+pincushion,tool,nonliving,0.333333,0.5,0.314285714,0.12
+pine,plant,living,0.714286,0.461538,0.407407407,0.163265306
+pineapple,fruit,living,0.816327,0.548387,NA,0.727272727
+pinecone,plant,living,0.689655,0.857143,0.535714286,0.183673469
+pint of beer,food,nonliving,0.520833,0.428571,0.448275862,0.055555556
+pipe,household items,nonliving,0.44898,0.5,0.461538462,0.172413793
+pirate hat,clothing,nonliving,0.285714,0.296296,0.333333333,0.22
+pistachio,food,nonliving,0.785714,0.64,0.340909091,0.295454545
+pitcher,kitchen items,nonliving,0.244898,0.535714,0.333333333,0.178571429
+pith helmet,clothing,nonliving,0.428571,0.357143,0.382352941,0.183673469
+pizza,food,nonliving,0.472222,NA,0.64516129,0.14
+plane,vehicle,nonliving,0.22449,0.766667,NA,0.277777778
+planet,decorative,nonliving,0.464286,0.346154,0.285714286,0.163265306
+plant,plant,living,0.772727,0.767442,0.92,0.181818182
+pliers,tool,nonliving,0.510204,0.340909,0.555555556,0.416666667
+plum,fruit,living,0.607143,0.464286,0.444444444,0.16
+plunger,tool,nonliving,0.666667,0.622222,0.384615385,0.309090909
+pocket knife,tool,nonliving,0.346939,0.580645,NA,0.222222222
+pocket watch,clothing,nonliving,0.56,0.428571,NA,0.172413793
+poison,food,nonliving,0.37037,0.535714,0.259259259,0.16
+poker table,furniture,nonliving,0.26,0.481481,0.357142857,0.206896552
+polar bear,mammal,living,0.77551,0.742857,0.392857143,0.583333333
+polaroid,electronics,nonliving,0.407407,0.44,0.272727273,0.181818182
+police car,vehicle,nonliving,0.333333,0.518519,0.288888889,0.11627907
+police hat,clothing,nonliving,0.444444,NA,0.35483871,0.12
+polo shirt,clothing,nonliving,0.055556,NA,0.344827586,0.326530612
+pomegranate,fruit,living,0.844444,0.636364,0.481481481,0.232142857
+pool,street items,nonliving,0.413793,0.464286,0.407407407,0.06
+pool ball,sports,nonliving,0.46,0.413793,NA,0.138888889
+popcorn machine,furniture,nonliving,0.755102,0.571429,0.407407407,0.346153846
+porcupine,mammal,living,0.714286,0.333333,NA,0.472222222
+pot,kitchen items,nonliving,0.466667,0.704545,0.62962963,0.236363636
+pot of gold,decorative,nonliving,0.64,0.342857,0.25,0.027777778
+potato,vegetable,living,0.763636,0.615385,0.395348837,0.288888889
+potted flowers,plant,living,0.485714,NA,0.551724138,0.06
+potted plant,plant,living,0.660377,0.615385,0.681818182,0.311111111
+power lines,street items,nonliving,0.428571,0.357143,0.222222222,0.06
+pretzel,food,nonliving,0.690909,0.518519,0.363636364,0.227272727
+printer,electronics,nonliving,0.26,0.555556,NA,0.228571429
+protractor,office tool,nonliving,0.38,0.285714,0.444444444,0.214285714
+puffin,birds,living,0.416667,NA,0.517241379,0.24
+pumpkin,vegetable,living,0.821429,0.703704,0.653846154,0.469387755
+puppy,mammal,living,0.431818,0.681818,0.518518519,0.125
+purse,clothing,nonliving,0.25,0.666667,0.642857143,0.3
+pushpin,office tool,nonliving,0.625,0.676471,0.466666667,0.194444444
+pyramid,building,nonliving,0.485714,0.666667,0.264705882,0.12
+q-tip,household items,nonliving,0.321429,0.36,0.139534884,0.181818182
+rabbit,mammal,living,0.925926,0.777778,0.409090909,0.568181818
+racecar,vehicle,nonliving,0.363636,0.452381,0.423076923,0.25
+radio,electronics,nonliving,0.522727,0.568182,0.592592593,0.232142857
+radio tower,building,nonliving,0.711111,0.5,0.461538462,0.160714286
+radish,vegetable,living,0.588235,NA,0.633333333,0.14893617
+raft,vehicle,nonliving,0.458333,0.352941,0.310344828,0.222222222
+railroad,street items,nonliving,0.333333,NA,0.466666667,0.18
+rainboot,clothing,nonliving,0.321429,0.37037,0.5,0.183673469
+raisin,fruit,living,0.911111,0.6,0.24,0.236363636
+rake,tool,nonliving,0.5,0.68,0.428571429,0.24137931
+raquet,sports,nonliving,0.310345,0.461538,0.555555556,0.24
+raspberry,fruit,living,0.911111,0.659091,0.259259259,0.196428571
+rattle,toys,nonliving,0.305556,NA,0.366666667,0.42
+ray,sea,nonliving,0.821429,0.222222,0.386363636,0.466666667
+razor,tool,nonliving,0.58,0.441176,0.448275862,0.514285714
+recessed light,house parts,nonliving,0.428571,0.333333,0.302325581,0.136363636
+record,musical instruments,nonliving,0.257143,0.542857,0.633333333,NA
+record player,musical instruments,nonliving,0.508772,0.5,0.444444444,0.209302326
+recorder,musical instruments,nonliving,0.38,0.518519,0.481481481,0.310344828
+recycling bin,street items,nonliving,0.583333,0.516129,0.382352941,0.36
+refrigerator,appliances,nonliving,0.607143,0.62963,0.209302326,0.244444444
+reindeer,mammal,living,0.822222,0.295455,0.333333333,0.345454545
+reindeer toy,holiday,nonliving,0.342857,NA,0.517241379,0.0625
+religious statue,decorative,nonliving,0.342857,NA,0.333333333,0.22
+revolver,military,nonliving,0.52,0.6,0.344827586,0.361111111
+rhinoceros,mammal,living,0.918367,0.888889,0.423076923,0.551724138
+rice,food,nonliving,0.8,0.522727,0.2,0.267857143
+rifle,military,nonliving,0.481481,0.592593,0.428571429,0.5
+ring,clothing,nonliving,0.54,0.571429,0.392857143,0.137931034
+road,street items,nonliving,0.448276,0.5,NA,NA
+robin,birds,living,0.92,0.558824,0.464285714,0.714285714
+rock-climbing shoe,clothing,nonliving,0.371429,0.4,0.228571429,0.08
+rocket,vehicle,nonliving,0.305556,0.517241,0.529411765,0.326530612
+rocking chair,furniture,nonliving,0.613636,0.627907,0.37037037,0.345454545
+rockinghorse,toys,nonliving,0.613636,0.772727,NA,NA
+rollerblade,sports,nonliving,0.457143,NA,0.5,0.551020408
+rollerskates,sports,nonliving,0.477273,0.636364,0.407407407,0.107142857
+rolling pin,kitchen items,nonliving,0.571429,NA,0.666666667,0.16
+rope,tool,nonliving,0.642857,0.555556,0.4,0.302325581
+rowboat,vehicle,nonliving,0.388889,NA,0.535714286,0.489361702
+rubber duck,toys,nonliving,0.666667,NA,0.7,0.14
+rug,furniture,nonliving,0.323529,0.448276,0.382352941,0.102040816
+ruler,office tool,nonliving,0.344828,0.703704,0.555555556,0.32
+safe,tool,nonliving,0.571429,0.657143,0.333333333,0.277777778
+safety goggles,clothing,nonliving,0.346939,0.535714,NA,0.192307692
+safety pin,tool,nonliving,0.551724,0.703704,0.259259259,0.265306122
+sailboat,vehicle,nonliving,0.527273,0.592593,0.454545455,0.318181818
+sailor hat,clothing,nonliving,0.4,0.366667,NA,0.163265306
+salmon,sea,living,0.533333,0.607143,0.535714286,0.3
+saltshaker,kitchen items,nonliving,0.666667,0.777778,0.666666667,0.517241379
+sand bucket,toys,nonliving,0.38,0.535714,NA,NA
+sandal,clothing,nonliving,0.2,0.52,0.464285714,0.206896552
+sandpaper,tool,nonliving,0.509091,0.384615,0.159090909,0.288888889
+santa claus,holiday,nonliving,0.660714,0.346154,0.204545455,0.204545455
+santa hat,holiday,nonliving,0.625,0.444444,0.2,NA
+sarcophagus,decorative,nonliving,0.689655,0.307692,0.4,0.326530612
+sardine,food,nonliving,0.62963,0.571429,0.333333333,0.14
+satellite,vehicle,nonliving,0.382353,0.518519,0.484848485,0.32
+satellite dish,tool,nonliving,0.24,NA,NA,0.085714286
+saw blade,tool,nonliving,0.48,0.758621,NA,0.305555556
+saxophone,musical instruments,nonliving,0.66,0.571429,0.296296296,0.607142857
+scale,household items,nonliving,0.309524,0.55,0.407407407,0.142857143
+scales,tool,nonliving,0.709091,0.76,0.5,0.4
+scalpel,household items,nonliving,0.4,NA,0.466666667,0.2
+scanner,electronics,nonliving,0.4,0.384615,0.166666667,0.133333333
+scarf,clothing,nonliving,0.327273,0.423077,0.222222222,0.093023256
+schoolbus,vehicle,nonliving,0.622222,0.641026,0.518518519,0.259259259
+scissors,office tool,nonliving,0.306122,0.428571,0.444444444,0.296296296
+scoop,household items,nonliving,0.586207,0.555556,0.357142857,0.1875
+scooter,vehicle,nonliving,0.177778,0.568182,0.423076923,0.105263158
+scorpion,insect,living,0.9,0.928571,0.407407407,0.620689655
+scotch tape,office tool,nonliving,0.413793,0.428571,0.444444444,0.26
+scraper,tool,nonliving,0.444444,NA,0.483870968,0.3
+screen,furniture,nonliving,0.464286,0.535714,0.392857143,0.28
+screw,tool,nonliving,0.462963,0.384615,0.30952381,0.288888889
+screwdriver,tool,nonliving,0.4,0.407407,0.428571429,0.379310345
+scroll,decorative,nonliving,0.464286,0.407407,0.444444444,0.12244898
+scythe,tool,nonliving,0.485714,NA,0.413793103,0.22
+seagull,birds,living,0.767857,0.615385,0.604651163,0.666666667
+seahorse,sea,living,0.94,0.962963,0.428571429,0.275862069
+seal,mammal,living,0.789474,0.703704,0.476190476,0.488888889
+seashell,sea,living,0.542857,NA,0.857142857,0.125
+seatbelt,tool,nonliving,0.32,0.558824,0.214285714,0.333333333
+sedan,vehicle,nonliving,0.310345,0.592593,0.392857143,0.3
+sewing machine,appliances,nonliving,0.444444,NA,0.741935484,0.448979592
+shaker,kitchen items,nonliving,0.611111,0.333333,0.512195122,0.136363636
+shark,sea,living,0.758621,0.592593,0.892857143,0.612244898
+shear,tool,nonliving,0.222222,NA,0.310344828,0.166666667
+sheep,mammal,living,0.795455,0.833333,0.52,0.339622642
+shelf,furniture,nonliving,0.477273,0.577778,0.653846154,0.210526316
+shield,decorative,nonliving,0.4,0.392857,0.285714286,0.14
+shirt,clothing,nonliving,0.5,0.448276,NA,0.083333333
+shoelace,clothing,nonliving,0.387755,0.333333,0.266666667,0.114285714
+shopping bag,tool,nonliving,0.326531,0.555556,0.461538462,0.24137931
+shopping cart,street items,nonliving,0.611111,0.461538,0.488372093,0.555555556
+shoulder,body parts,living,0.829787,0.666667,0.12,0.115384615
+shovel,tool,nonliving,0.488889,0.555556,0.72,0.581818182
+shower,house parts,nonliving,0.46,0.392857,0.185185185,0.178571429
+shrimp,sea,living,0.890909,0.769231,0.441860465,0.363636364
+shrimp dinner,food,nonliving,0.58,0.470588,0.344827586,0.085714286
+shuttlecock,sports,nonliving,0.388889,0.423077,0.285714286,0.12244898
+sickle,tool,nonliving,0.306122,0.333333,NA,0.305555556
+sidetable,furniture,nonliving,0.44898,0.558824,0.551724138,0.2
+sidewalk,street items,nonliving,0.8,0.387097,NA,0.166666667
+silo,building,nonliving,0.52,0.321429,0.321428571,0.344827586
+skateboard,sports,nonliving,0.413793,0.642857,0.444444444,0.2
+ski,sports,nonliving,0.4,0.604651,0.461538462,0.017857143
+ski mask,clothing,nonliving,0.77551,0.2,NA,0.166666667
+skirt,clothing,nonliving,0.454545,0.372093,0.333333333,0.087719298
+skyscraper,building,nonliving,0.481481,0.5,0.523809524,0.2
+sled,vehicle,nonliving,0.321429,0.555556,0.464285714,0.224489796
+sleigh,vehicle,nonliving,0.5,0.422222,0.407407407,0.122807018
+slide,street items,nonliving,0.314286,0.689655,0.393939394,0.12244898
+slingshot,military,nonliving,0.46875,0.551724,0.470588235,0.125
+slinky,toys,nonliving,0.457143,0.7,0.235294118,0.208333333
+slipper,clothing,nonliving,0.491228,0.62963,0.375,0.2
+slot machine,electronics,nonliving,0.604167,0.454545,0.533333333,0.361111111
+slug,insect,living,0.811321,0.666667,0.454545455,0.19047619
+smoke detector,house parts,nonliving,0.386364,0.404762,0.37037037,0.2
+snail,insect,living,0.816327,0.851852,0.518518519,0.392857143
+snake,reptile,living,0.9,0.857143,0.481481481,0.448275862
+sneakers,clothing,nonliving,0.375,0.48,0.644444444,0.111111111
+snow peas,vegetable,living,0.714286,0.653846,0.178571429,0.448275862
+snowflake,decorative,nonliving,0.698113,0.592593,0.311111111,0.204545455
+snowglobe,decorative,nonliving,0.42,0.464286,NA,NA
+snowman,holiday,nonliving,0.636364,0.346154,0.279069767,0.222222222
+snowmobile,vehicle,nonliving,0.7,0.310345,NA,0.114285714
+soap dispenser,household items,nonliving,0.310345,0.392857,0.444444444,0.24
+soccer ball,sports,nonliving,0.477272727,NA,NA,0.410714286
+sock,clothing,nonliving,0.375,0.628571,0.566666667,0.171428571
+soda machine,street items,nonliving,0.535714,0.555556,0.48,0.204081633
+sombrero,clothing,nonliving,0.408163,0.518519,0.214285714,0.178571429
+soup,food,nonliving,0.28,0.482759,NA,0.222222222
+space heater,electronics,nonliving,0.408163,0.411765,0.451612903,0.277777778
+space shuttle,vehicle,nonliving,0.557692,0.444444,0.441860465,0.136363636
+spaghetti,food,nonliving,0.772727,0.545455,0.222222222,0.127272727
+speaker,electronics,nonliving,0.555556,0.55814,0.5,0.381818182
+spear,military,nonliving,0.62069,0.535714,0.392857143,0.28
+spider,insect,living,0.657143,NA,0.714285714,0.333333333
+spinach,vegetable,living,0.840909,0.555556,0.307692308,0.269230769
+spool,tool,nonliving,0.3,0.444444,0.296296296,0.142857143
+spoon,kitchen items,nonliving,0.482759,0.571429,0.607142857,0.46
+spotlight,furniture,nonliving,0.350877,0.346154,0.363636364,0.136363636
+spring,tool,nonliving,0.344828,0.481481,0.321428571,0.229166667
+squash,vegetable,living,0.5,0.777778,0.607142857,0.275862069
+squid,sea,living,0.571429,0.433333,NA,0.25
+squirrel,mammal,living,0.755556,0.627907,0.653846154,0.444444444
+stained glass window,house parts,nonliving,0.607143,0.481481,0.431818182,0.272727273
+stairs,house parts,nonliving,0.464286,0.428571,0.428571429,0.36
+stamp,tool,nonliving,0.6,0.230769,0.279069767,0.155555556
+stapler,office tool,nonliving,0.257143,0.7,0.529411765,0.1
+starfish,sea,living,0.591837,0.451613,NA,0.305555556
+starfruit,fruit,living,0.8,0.785714,NA,NA
+stationary bike,sports,nonliving,0.46,0.5,0.448275862,0.305555556
+steak,food,nonliving,0.571429,0.466667,NA,0.111111111
+steam engine,vehicle,nonliving,0.52,0.357143,0.357142857,0.275862069
+step stool,furniture,nonliving,0.714286,0.384615,0.348837209,0.272727273
+stepladder,furniture,nonliving,0.416667,0.62963,0.542857143,0.163265306
+stickbug,insect,living,,,0.4,0.773584906
+stork,birds,living,0.793103,0.296296,0.518518519,0.52
+strainer,tool,nonliving,0.42,0.444444,0.428571429,0.24137931
+strawberry,fruit,living,0.793103,0.892857,0.464285714,0.387755102
+stroller,baby,nonliving,0.583333,0.607143,0.62962963,0.357142857
+sugar shaker,kitchen items,nonliving,0.44898,0.407407,0.428571429,0.321428571
+sundial,tool,nonliving,0.472222,NA,0.6,0.163265306
+sunglasses,clothing,nonliving,0.314286,0.5,0.411764706,0.2
+surfboard,sports,nonliving,0.530612,0.428571,0.6,0.228571429
+swan,birds,living,0.77551,0.703704,0.333333333,0.275862069
+swimsuit,clothing,nonliving,0.535714,0.481481,0.285714286,0.14
+swingset,street items,nonliving,0.44186,0.454545,0.125,0.111111111
+swiss army knife,tool,nonliving,0.577778,0.555556,0.538461538,0.277777778
+sword,military,nonliving,0.533333,0.577778,0.444444444,0.350877193
+syringe,tool,nonliving,0.6,0.6,0.517241379,0.333333333
+table saw,appliances,nonliving,0.44898,0.466667,NA,0.222222222
+tambourine,musical instruments,nonliving,0.64,0.62069,NA,0.444444444
+tank,military,nonliving,0.44,0.428571,NA,0.411764706
+tanktop,clothing,nonliving,0.592593,0.392857,NA,NA
+tape,office tool,nonliving,0.688889,0.340909,0.56,0.142857143
+tarantula,insect,living,0.553191,0.6,NA,0.666666667
+taxi,vehicle,nonliving,0.285714,0.75,0.5,0.16
+teddybear,toys,nonliving,0.688889,0.767442,0.666666667,0.228070175
+teepee,building,nonliving,0.563636,0.538462,0.348837209,0.159090909
+telephone,electronics,nonliving,0.526316,0.576923,0.590909091,0.422222222
+telephone booth,street items,nonliving,0.488372,0.727273,0.481481481,0.157894737
+telescope,tool,nonliving,0.533333,0.47619,0.384615385,0.307692308
+television,electronics,nonliving,0.448276,0.535714,0.428571429,0.244897959
+tennis ball,sports,nonliving,0.781818,0.555556,0.477272727,0.288888889
+tent,sports,nonliving,0.527778,0.37931,0.628571429,0.38
+thermos,sports,nonliving,0.551724,0.321429,0.407407407,0.285714286
+thimble,household items,nonliving,0.642857,0.592593,0.192307692,0.24
+throne,furniture,nonliving,0.522727,0.325581,0.36,0.283018868
+tie,clothing,nonliving,0.416667,NA,0.580645161,0.104166667
+tiger,mammal,living,0.8,0.769231,0.431818182,0.555555556
+tile,decorative,nonliving,0.194444,0.517241,0.342857143,0.06
+tire,vehicle,nonliving,0.42,0.428571,0.464285714,0.228571429
+toaster,appliances,nonliving,0.381818,0.538462,0.444444444,0.302325581
+toaster oven,appliances,nonliving,0.5,0.636364,0.551724138,0.25
+toilet,furniture,nonliving,0.609756,0.386364,0.538461538,0.142857143
+toilet paper,household items,nonliving,0.310345,0.444444,0.392857143,0.3125
+tomato,vegetable,living,0.82,0.576923,0.607142857,0.655172414
+tombstone,street items,nonliving,0.408163,0.555556,0.153846154,0.038461538
+tongue,body parts,living,0.7,0.678571,0.464285714,0.103448276
+toolbox,tool,nonliving,0.381818,0.692308,0.5,0.227272727
+toothbrush,household items,nonliving,0.517857,0.461538,0.431818182,0.2
+tophat,clothing,nonliving,0.611111,0.461538,0.386363636,NA
+tortilla chip,food,nonliving,0.619048,0.47619,0.28,0.157894737
+totem pole,decorative,nonliving,0.622222222,NA,NA,0.087719298
+toucan,birds,living,0.888889,0.613636,0.423076923,0.245283019
+tour bus,vehicle,nonliving,0.755556,0.475,0.48,0.444444444
+towel rack,furniture,nonliving,0.526316,0.333333,0.318181818,0.2
+toy,toys,nonliving,0.511111,0.688889,0.692307692,0.148148148
+toy apple,toys,nonliving,0.551724,0.518519,NA,NA
+toy basket,toys,nonliving,0.469388,0.428571,0.392857143,0.142857143
+toy indian,toys,nonliving,NA,NA,NA,NA
+toy phone,toys,nonliving,0.603774,0.68,0.302325581,NA
+toy soldier,toys,nonliving,0.672727,0.666667,0.295454545,0.288888889
+toy train,toys,nonliving,0.387755,0.485714,0.785714286,0.138888889
+toy wagon,toys,nonliving,0.693878,NA,NA,0.272727273
+toy xylophone,toys,nonliving,0.277778,0.645161,0.363636364,0.081632653
+tractor,vehicle,nonliving,0.416667,0.5,0.628571429,0.285714286
+traffic light,street items,nonliving,0.314286,NA,0.466666667,0.48
+trailer,vehicle,nonliving,0.553571,0.407407,0.340909091,0.409090909
+train,vehicle,nonliving,0.509091,0.769231,0.558139535,0.590909091
+transformer,street items,nonliving,0.622222,0.454545,0.222222222,0.074074074
+trash bin,street items,nonliving,0.42,0.62963,0.214285714,0.275862069
+trash can,street items,nonliving,0.66,0.586207,NA,0.142857143
+tray,kitchen items,nonliving,0.4,0.514286,0.548387097,0.194444444
+treasure chest,decorative,nonliving,0.45614,0.461538,0.488372093,0.295454545
+treefrog,reptile,living,0.785714,0.666667,0.511111111,NA
+triangle,musical instruments,nonliving,0.4375,0.321429,0.307692308,0.259259259
+tricycle,vehicle,nonliving,0.34,0.518519,0.185185185,0.148148148
+trolley,vehicle,nonliving,0.416667,0.53125,0.666666667,0.257142857
+trombone,musical instruments,nonliving,0.74,0.592593,0.307692308,0.620689655
+trophy,decorative,nonliving,0.3,0.428571,0.464285714,0.172413793
+trowel,tool,nonliving,0.55102,0.481481,0.357142857,0.344827586
+truck,vehicle,nonliving,0.577778,0.613636,0.576923077,0.285714286
+trumpet,musical instruments,nonliving,0.545455,0.703704,0.558139535,0.568181818
+tuba,musical instruments,nonliving,0.678571,0.555556,0.607142857,0.479166667
+turkey,birds,living,0.694444,0.689655,0.529411765,0.5
+turtle,reptile,living,0.44898,0.607143,NA,0.657142857
+typewriter,office tool,nonliving,0.410714,0.576923,0.522727273,0.2
+umbrella,household items,nonliving,0.340909,0.522727,0.6,0.163636364
+vacuum,appliances,nonliving,0.488889,0.522727,0.346153846,0.267857143
+valve,tool,nonliving,0.38,0.266667,NA,0.166666667
+van,vehicle,nonliving,0.327273,0.5,0.444444444,0.204545455
+vanity mirror,furniture,nonliving,0.37931,0.44,0.464285714,0.173913043
+vase,household items,nonliving,0.5,0.529412,0.4,0.25
+vcr,appliances,nonliving,0.488889,0.409091,0.148148148,0.4
+vent,house parts,nonliving,0.555556,0.285714,0.285714286,0.1
+videocamera,electronics,nonliving,0.357143,0.740741,0.592592593,0.2
+viking helmet,clothing,nonliving,0.54,0.607143,NA,NA
+violin,musical instruments,nonliving,0.694444,NA,0.620689655,0.4
+violin bow,musical instruments,nonliving,0.55102,0.464286,0.37037037,0.379310345
+Volkswagen beetle,vehicle,nonliving,0.522727,0.466667,0.5,0.090909091
+voltmeter,electronics,nonliving,0.408163,0.264706,0.266666667,0.388888889
+vulture,birds,living,0.66,0.607143,0.259259259,0.551724138
+waffle,food,nonliving,0.583333,NA,0.7,0.489361702
+waffle iron,appliances,nonliving,0.451613,0.7,0.428571429,0.14
+wagon wheel,vehicle,nonliving,0.4,0.488372,0.444444444,0.122807018
+walker,tool,nonliving,0.62069,0.62963,0.321428571,0.28
+walkietalkie,electronics,nonliving,0.37931,0.464286,0.321428571,0.24
+walkman,electronics,nonliving,0.367347,0.576923,0.407407407,0.137931034
+washboard,tool,nonliving,0.367347,0.371429,0.516129032,0.314285714
+washing machine,appliances,nonliving,0.48,0.457143,0.433333333,0.416666667
+wasp,insect,living,0.82,0.678571,0.642857143,0.333333333
+wastebasket,furniture,nonliving,0.74,0.482759,NA,0.166666667
+water fountain,street items,nonliving,0.571429,0.555556,0.407407407,0.178571429
+water gun,toys,nonliving,0.571429,0.740741,0.285714286,0.270833333
+waterjug,kitchen items,nonliving,0.48,0.457143,0.482758621,0.25
+watermelon,fruit,living,0.74,0.771429,0.466666667,0.388888889
+wedding cake,food,nonliving,0.612245,0.714286,0.322580645,0.142857143
+weight bench,sports,nonliving,0.545455,0.466667,0.407407407,0.160714286
+wetsuit,clothing,nonliving,0.326531,0.4,0.366666667,0.114285714
+wheat,plant,living,0.5,0.6,0.307692308,0.24
+wheelbarrow,tool,nonliving,0.607143,0.64,0.392857143,0.52
+wheelchair,vehicle,nonliving,0.48,0.571429,0.535714286,0.392857143
+whip,military,nonliving,0.666667,0.311111,0.44,0.236363636
+whistle,tool,nonliving,0.697674,0.571429,0.4,0.089285714
+windmill,building,nonliving,0.422222,0.590909,0.37037037,0.036363636
+window,house parts,nonliving,0.86,0.533333,NA,0.25
+wine,food,nonliving,0.618182,0.692308,0.454545455,0.302325581
+wine bottle,food,nonliving,0.481481,0.72,0.568181818,0.272727273
+wine rack,furniture,nonliving,0.314286,0.612903,0.485714286,0.183673469
+wire,tool,nonliving,0.510204,0.428571,0.516129032,0.257142857
+wolf,mammal,living,0.875,0.678571,0.666666667,0.714285714
+women's hat,clothing,nonliving,0.2,0.296296296,0.288888889,0.136363636
+wooden fence,street items,living,0.36,0.37037,0.571428571,0.24137931
+woodpecker,birds,living,0.857143,0.777778,0.444444444,0.408163265
+wreath,holiday,nonliving,0.653061,0.275862,NA,0.235294118
+wrench,tool,nonliving,0.553571,0.615385,0.488372093,0.377777778
+wrist,body parts,living,0.714286,0.576923,0.325581395,0.177777778
+wristwatch,clothing,nonliving,0.436364,0.576923,0.409090909,0.222222222
+xylophone,musical instruments,nonliving,0.344828,0.321429,0.384615385,0.224489796
+yacht,vehicle,nonliving,0.371429,0.655172,0.428571429,0.44
+yam,vegetable,living,0.9,0.444444,0.285714286,0.413793103
+yarn,tool,nonliving,0.561404,0.259259,0.386363636,0.311111111
+yoyo,toys,nonliving,0.58,0.592593,0.321428571,0.206896552
+zebra,mammal,living,0.755102,0.714286,0.464285714,0.586206897
+zucchini,vegetable,living,0.833333,0.538462,0.5,0.6
