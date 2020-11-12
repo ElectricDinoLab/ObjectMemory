@@ -7,3 +7,4 @@ To access all of the images please visit this website (https://osf.io/fxgzj/) an
 You can also download the images from the Shiny App website (https://mariamh.shinyapps.io/dinolabobjects/) under the 'downloads' tab.
 
 
+The predictors.csv file in the ObjMem Data folder above is raw data that has not been transformed. 
